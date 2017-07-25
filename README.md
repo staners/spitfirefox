@@ -10,3 +10,5 @@ The **Request Fragment** on the left is to define a request incl. the target URI
 The **Response Fragment** on the right is to display the response of the server. To save space, only options that were present in an incoming response are displayed in the response fragment. One can switch between both fragments with a swipe.
 
 See also: [coSense - A CoAP Server for mobile Sensors attached to Android devices](https://github.com/okleine/coSense/)
+
+ksw test
